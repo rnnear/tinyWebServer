@@ -1,0 +1,24 @@
+---- tinyweb start at Sat Aug 18 08:15:17 2018
+0 client 127.0.0.1(48826) connected
+~client 127.0.0.1(48826) close
+---- tinyweb start at Sat Aug 18 08:32:31 2018
+0 client 127.0.0.1(48828) connected
+---- tinyweb start at Sat Aug 18 08:42:30 2018
+0 client 127.0.0.1(48830) connected
+---- tinyweb start at Sat Aug 18 09:01:57 2018
+---- tinyweb start at Sat Aug 18 09:03:40 2018
+0 client 127.0.0.1(48858) connected
+~client 127.0.0.1(48858) close
+---- tinyweb start at Sat Aug 18 09:08:35 2018
+0 client 127.0.0.1(48890) connected
+---- tinyweb start at Sat Aug 18 09:17:33 2018
+0 client 127.0.0.1(48946) connected
+---- tinyweb start at Sat Aug 18 09:20:41 2018
+0 client 127.0.0.1(48948) connected
+---- tinyweb start at Sat Aug 18 09:24:16 2018
+0 client 127.0.0.1(48950) connected
+---- tinyweb start at Sat Aug 18 09:32:41 2018
+0 client 127.0.0.1(48960) connected
+---- tinyweb start at Sat Aug 18 09:38:32 2018
+0 client 127.0.0.1(48962) connected
+~client 127.0.0.1(48962) file(./home.html) did't exist

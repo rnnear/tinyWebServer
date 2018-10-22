@@ -1,0 +1,53 @@
+---- tinyweb start at Sat Aug 18 08:15:17 2018
+0 client 127.0.0.1(48826) connected
+~client 127.0.0.1(48826) close
+---- tinyweb start at Sat Aug 18 08:32:31 2018
+0 client 127.0.0.1(48828) connected
+---- tinyweb start at Sat Aug 18 08:42:30 2018
+0 client 127.0.0.1(48830) connected
+---- tinyweb start at Sat Aug 18 09:01:57 2018
+---- tinyweb start at Sat Aug 18 09:03:40 2018
+0 client 127.0.0.1(48858) connected
+~client 127.0.0.1(48858) close
+---- tinyweb start at Sat Aug 18 09:08:35 2018
+0 client 127.0.0.1(48890) connected
+---- tinyweb start at Sat Aug 18 09:17:33 2018
+0 client 127.0.0.1(48946) connected
+---- tinyweb start at Sat Aug 18 09:20:41 2018
+0 client 127.0.0.1(48948) connected
+---- tinyweb start at Sat Aug 18 09:24:16 2018
+0 client 127.0.0.1(48950) connected
+---- tinyweb start at Sat Aug 18 09:32:41 2018
+0 client 127.0.0.1(48960) connected
+---- tinyweb start at Sat Aug 18 09:38:32 2018
+0 client 127.0.0.1(48962) connected
+~client 127.0.0.1(48962) file(./home.html) did't exist
+---- tinyweb start at Fri Sep 14 07:02:17 2018
+---- tinyweb start at Fri Sep 14 07:07:59 2018
+---- tinyweb start at Fri Sep 14 07:15:18 2018
+---- tinyweb start at Fri Sep 14 07:15:24 2018
+---- tinyweb start at Fri Sep 14 07:22:00 2018
+0 client 127.0.0.1(33322) accepted by 36594
+~client 127.0.0.1(33322) file(./home.html) did't exist
+---- tinyweb start at Fri Sep 14 07:25:35 2018
+---- tinyweb start at Fri Sep 14 07:58:18 2018
+0 client 127.0.0.1(33328) accepted by 37084
+---- tinyweb start at Fri Sep 14 08:05:59 2018
+---- tinyweb start at Fri Sep 14 08:06:15 2018
+---- tinyweb start at Fri Sep 14 08:06:35 2018
+0 client 127.0.0.1(33330) accepted by 37170
+---- tinyweb start at Fri Sep 14 08:17:04 2018
+0 client 127.0.0.1(33332) accepted by 37245
+1 client 127.0.0.1(33334) accepted by 37244
+---- tinyweb start at Fri Sep 14 08:24:01 2018
+0 client 127.0.0.1(33336) accepted by 37317
+---- tinyweb start at Fri Sep 14 08:24:52 2018
+0 client 127.0.0.1(33338) accepted by 37332
+---- tinyweb start at Fri Sep 14 08:32:08 2018
+---- tinyweb start at Fri Sep 14 08:32:29 2018
+0 client 127.0.0.1(33340) accepted by 37333
+---- tinyweb start at Fri Sep 14 08:33:53 2018
+---- tinyweb start at Fri Sep 14 08:36:48 2018
+0 client 127.0.0.1(33342) accepted by 37448
+---- tinyweb start at Fri Sep 14 08:37:17 2018
+0 client 127.0.0.1(33344) accepted by 37465
